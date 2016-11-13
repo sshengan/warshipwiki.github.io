@@ -1,0 +1,36 @@
+img{
+	width: 100%;
+}
+
+body {
+  background: none;
+  color: rgb(56, 57, 71);
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.navbar {
+  background: #70728E;
+  color: white;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("logo.png");
+  background-size: 70%;
+  background-repeat: no-repeat;
+}
